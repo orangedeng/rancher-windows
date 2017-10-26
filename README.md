@@ -8,7 +8,7 @@ Windows Server 2016 Datacenter with Container
 
 ### Summary
 Only support per-host-subnet network module.
-![per-host-subnet](./per-host-subnet.svg)
+![per-host-subnet](./per-host-subnet.jpg)
 
 The extra route rule for each subnet will be needed on each host. e.g. The route rules:
 
@@ -64,7 +64,7 @@ Micro-service on container list
 
 All the service will use the transparent network.
 
-![services](./services.svg)
+![services](./services.jpg)
 
 ## Micro-service
 
